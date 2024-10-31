@@ -2,3 +2,8 @@ title: 我的涂鸦站
 description: 我的涂鸦站
 theme: jekyll-theme-modernist
 timezone: Asia/Shanghai
+nav:
+- name: Home
+  link: /
+- name: About
+  link: /about.html  
