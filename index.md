@@ -1,1 +1,1 @@
-# welcome to my graffiti page
+# {{site.title}}
