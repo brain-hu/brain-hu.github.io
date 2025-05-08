@@ -6,8 +6,6 @@ timezone: Asia/Shanghai
 nav:
 - name: Home
   link: /
-- name: About
-  link: /about.html  
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one  
 github:
