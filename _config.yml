@@ -1,9 +1,12 @@
+remote_theme: pages-themes/minimal@v0.2.0
 title: 我的涂鸦站
 description: 我的涂鸦站
-theme: jekyll-theme-modernist
+# theme: jekyll-theme-modernist
 timezone: Asia/Shanghai
 nav:
 - name: Home
   link: /
 - name: About
   link: /about.html  
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one  
