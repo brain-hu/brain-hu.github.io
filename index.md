@@ -1,6 +1,10 @@
-# 
+# 我的涂鸦站
+
+# 标题
 Text can be **bold**, _italic_, or ~~strikethrough~~. 
-更新了内容
+
+
+## 更新了内容
 
 [Link to another page](./about.md).
 
